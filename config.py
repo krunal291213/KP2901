@@ -8,7 +8,7 @@ API_ID = int(os.environ.get("API_ID", "25134698"))
 # ------------------------------------------------
 API_HASH = os.environ.get("API_HASH","6b66c879f765a0662a3ad030f8ae45f7")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8202456505:AAFQiX6Zbhi7daU1kR_usxKViRCO4JGPubM")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8202456505:AAEkAwh3Blab70Ieo1TiOcyk8kX1t2XHSFg")
 # ------------------------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Txtextractorpk_bot")
 BOT_TEXT = "KP Extractor"
